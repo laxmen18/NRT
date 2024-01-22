@@ -48,7 +48,7 @@ Run the Streamlit app by executing:
 
 - User can now ask a question and get the answer based on those news articles
 
-- In video project, we used following news articles
+- In this project, we used following news articles
 
   - https://www.moneycontrol.com/news/business/tata-motors-mahindra-gain-certificates-for-production-linked-payouts-11281691.html
   - https://www.moneycontrol.com/news/business/tata-motors-launches-punch-icng-price-starts-at-rs-7-1-lakh-11098751.html
