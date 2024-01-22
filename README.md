@@ -34,9 +34,9 @@ Run the Streamlit app by executing:
 
     $ streamlit run main.py
   
-2.The web app will open in your browser.
+2.The web app will open in the browser.
 
-- On the sidebar, you can input URLs directly.
+- On the sidebar, user can input URLs directly.
 
 - Initiate the data loading and processing by clicking "Process URLs."
 
@@ -46,9 +46,9 @@ Run the Streamlit app by executing:
 
 - The FAISS index will be saved in a local file path in pickle format for future use.
 
-- One can now ask a question and get the answer based on those news articles
+- User can now ask a question and get the answer based on those news articles
 
-- In video tutorial, we used following news articles
+- In video project, we used following news articles
 
   - https://www.moneycontrol.com/news/business/tata-motors-mahindra-gain-certificates-for-production-linked-payouts-11281691.html
   - https://www.moneycontrol.com/news/business/tata-motors-launches-punch-icng-price-starts-at-rs-7-1-lakh-11098751.html
